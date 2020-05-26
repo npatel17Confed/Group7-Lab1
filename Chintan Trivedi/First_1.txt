@@ -1,7 +1,7 @@
-<<<<<<< First_1.txt
+
 Welcome to github!!
 
 Thunder Bay, Ontario
-=======
+
 Canada
->>>>>>> Third_3.txt
+
