@@ -1,5 +1,2 @@
-<<<<<<< lab1.txt
 Welcome to github!!
-=======
-Ontario
->>>>>>> lab1.3.txt
+Thunder Bay
